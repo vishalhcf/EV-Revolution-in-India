@@ -33,6 +33,6 @@ The project provides a detailed analysis of the EV ecosystem by examining both:
 The EV revolution in India is accelerating, driven by both policy support and changing consumer preferences. However, challenges such as infrastructure and cost barriers still need to be addressed.
 
 ## 👨‍💻 Authors
-- Vishal Kumar  
-- Vinay Sharma  
-- Harsh Vardhan Singh  
+- Vishal Kumar  -2210992536
+- Vinay Sharma  -2210992529
+- Harsh Vardhan Singh  -2210991627
